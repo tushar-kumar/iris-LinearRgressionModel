@@ -1,4 +1,4 @@
-<h1>linear-regression-with-Iris-Dataset</h1>
+<h1>Linear Regression with Iris-Dataset</h1>
 The Iris flower dataset is a multivariate.It is a typical testcase for many statistical classification techniques in machine learning.
 
 The dataset contains: 3 classes (different Iris species) with 50 samples each.
@@ -10,6 +10,6 @@ One species, Iris Setosa, is "linearly separable" from the other two. This means
 
 Predicted Attribute: Different Species of Iris plant
  
-This project makes use of Scikit-Learn, Numpy, Pandas and Data Visualization Libraries(Seaborn and matplotlib).
+This project makes use of Scikit-Learn, Numpy, Pandas and Data Visualization Libraries(Matplotlib).
 
 The purpose of this project is to gain introductory exposure to Machine Learning Classification concepts along with data visualization.
